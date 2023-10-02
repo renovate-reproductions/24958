@@ -7,7 +7,7 @@ verify_ssl = true
 # For lockfile maintenance
 plumbum = "~=1.8.0"
 # For normal dependency PR
-numpy = "==1.25.0"
+numpy = "==1.26.0"
 
 [requires]
 python_version = "3.11"
